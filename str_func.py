@@ -1,5 +1,5 @@
 def upp_str(some_str):
-    """Пишет строку заглавными буквами"""
+    """,kjjjjp;kj"""
     return some_str.upper()
 
 def title_letter(word):
