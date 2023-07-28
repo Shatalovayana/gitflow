@@ -1,3 +1,7 @@
 def upp_str(some_str):
-    """Делает строку заглавными буквами"""
-    return some_str.upper
+    """Пишет строку заглавными буквами"""
+    return some_str.upper()
+
+def title_letter(word):
+    """Делает заглавной первую букву"""
+    return word.title()
